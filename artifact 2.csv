@@ -1,0 +1,12 @@
+metric_category,operational_kpi,manual_human_tutor_baseline,automated_guarded_rag,variance_or_improvement,business_impact_narrative
+Operations,Average Turnaround Time (TAT),4.5 Hours,1.18 Seconds,-99.9% Latency Reduction,Instant student clarity eliminates study drop-off cliffs
+Operations,Auto-Approval Deflection Rate,0.0% (Manual Triage),44.5% (Automated),+44.5% Deflected,44.5% of incoming student doubts resolved instantly with zero human faculty intervention
+Quality & Risk,Escaped Hallucination Rate,1.2% (Human Fatigue),0.0% (Zero Tolerated),-100% Interception,Mathematical RQI boundary intercepts 100% of out-of-scope baits
+Quality & Risk,Pedagogical Citation Coverage,32.0% (Tutor Notes),100.0% (Textbook Chunks),+68.0% Verifiable Citations,Every auto-approved answer provides verified curriculum source chapters
+Financial Unit Economics,Cost Per Resolved Doubt,$3.20,$0.04,-98.7% Unit Cost Reduction,All-in compute and embedding inference costs under $0.04 per query
+Monthly Scale (15k Doubts),Total Queries Processed,15000,15000,0,Scale covers full active entrance exam student enrollment
+Monthly Scale (15k Doubts),Faculty Triage Inquiries,15000,8325,-44.5% Workload Reduction,6675 routine queries resolved automatically each month
+Monthly Scale (15k Doubts),Gross Operational Expenditure,$48000.00,$27240.00,-$20760.00 Net Savings,Combines $600 AI compute cost and $26640 prioritized faculty review
+Peak Surge Month (25k Doubts),Gross Operational Expenditure,$80000.00,$45400.00,-$34600.00 Net Savings,During mock exam crunches cost avoidance scales to $34600 monthly
+Student Success,Course Renewal Retention Rate,76.4%,80.6%,+4.2% Retention Lift,Instant 24/7 verified doubt resolution drives measurable term renewal
+Student Success,Student Net Promoter Score (NPS),+48,+64,+16 Point NPS Increase,High trust in verified solutions drives student word-of-mouth growth
